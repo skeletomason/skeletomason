@@ -1,6 +1,6 @@
 # Hi there!!! 👋
 
-I'm **Gruncha**, a software developer / database engineer / penetration tester (take that last one with a grain of salt 😅) who loves **video games**, **music production**, **art and design**, and **robotics**.
+I'm **Mason**, a software developer / database engineer / penetration tester (take that last one with a grain of salt 😅) who loves **video games**, **music production**, **art and design**, and **robotics**.
 
 ---
 
