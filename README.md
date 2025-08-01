@@ -17,3 +17,5 @@ I'm **Mason**, a software developer / database engineer / penetration tester (ta
   - Email: **skeletomason@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: I’m 18 and planning to study **Electrical and Electronic Engineering (EEE)** at university
+
+###### Last updated: 01/08/25
